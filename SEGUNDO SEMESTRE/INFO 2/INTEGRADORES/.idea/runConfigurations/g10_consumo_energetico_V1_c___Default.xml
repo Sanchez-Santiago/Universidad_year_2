@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="g10_consumo_energetico_V1.c - Default" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$/V1" PASS_PARENT_ENVS_2="true" PROJECT_NAME="INTEGRADORES" TARGET_NAME="g10_consumo_energetico_V1.c - Default" CONFIG_NAME="g10_consumo_energetico_V1.c - Default">
+    <option name="sourceFile" value="$PROJECT_DIR$/g10_consumo_energetico_V1.c" />
+    <option name="toolchainName" value="Default" />
+    <method v="2">
+      <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
